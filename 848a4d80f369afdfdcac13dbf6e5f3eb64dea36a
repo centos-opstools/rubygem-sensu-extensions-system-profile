@@ -1,0 +1,9 @@
+Verified+1: Jenkins CI <admin@rpmfactory.beta.rdoproject.org>
+Code-Review+2: Matthias Runge <mrunge@redhat.com>
+Workflow+1: Matthias Runge <mrunge@redhat.com>
+Verified+2: Zuul CI <zuul@review.rdoproject.org>
+Submitted-by: Zuul CI <zuul@review.rdoproject.org>
+Submitted-at: Thu, 20 Sep 2018 06:43:46 +0000
+Reviewed-on: https://review.rdoproject.org/r/12733
+Project: centos-opstools/rubygem-sensu-extensions-system-profile
+Branch: refs/heads/master
